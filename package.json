@@ -2,7 +2,7 @@
   "name": "angular-e2e-test-lab",
   "version": "1.0.0",
   "description": "## Objectives",
-  "main": "conf.js",
+  "main": "spec/server.js",
   "dependencies": {},
   "devDependencies": {
     "express": "4.13.4"
