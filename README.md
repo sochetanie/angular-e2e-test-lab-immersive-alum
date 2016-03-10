@@ -14,3 +14,4 @@ Inside of the `'should add a new contact'` test, setup the following expectation
 + Total count of contacts should be `4`.
 + The name of the second contact should be 'Tim'.
 + The phone number of the second contact should be '3934203242'.
+
